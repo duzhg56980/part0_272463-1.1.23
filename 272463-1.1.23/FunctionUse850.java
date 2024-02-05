@@ -1,0 +1,6 @@
+import com.alibaba.fastjson.serializer.CharacterSerializer;
+public class FunctionUse850 {
+public void funcUse() {
+CharacterSerializer characterserializer = new CharacterSerializer();
+}
+}
